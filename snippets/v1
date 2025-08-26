@@ -1,0 +1,26 @@
+{
+	"h1": {
+		"scope": "html",
+		"prefix": "h1 tag",
+		"body": [
+			"<h1>Welcome to KeshavSoft</h1>"
+		],
+		"description": "h1 in headings tag"
+	},
+	"h2": {
+		"scope": "html",
+		"prefix": "h2 tag",
+		"body": [
+			"<h2>9848163021</h2>"
+		],
+		"description": "h2 in headings tag"
+	},
+	"h3": {
+		"scope": "html",
+		"prefix": "h3 tag",
+		"body": [
+			"<h3>Kakinada</h3>"
+		],
+		"description": "h3 in headings tag"
+	}
+}
