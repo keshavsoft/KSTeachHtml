@@ -12,3 +12,10 @@ vsce package
 
 nknnkumar@yahoo.com
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/048441a8-849d-43d4-955b-a79b4ed082cb" />
+
+
+
+   "emmet.showExpandedAbbreviation": "never"
+
+   
